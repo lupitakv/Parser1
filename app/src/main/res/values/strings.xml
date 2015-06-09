@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Parser1</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_lista_animales">Lista animal</string>
+    <string name="title_activity_vista_individual">vista individual</string>
+    <string name="id"> Id animal</string>
+    <string name="nombre_comun">Nombre Comun </string>
+    <string name="nombre_cient">Nombre Cientifico</string>
+    <string name="habitat">Habitat</string>
+    <string name="caracteristicas">Caracteristicas</string>
+</resources>
